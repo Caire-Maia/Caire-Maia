@@ -21,9 +21,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" title="Sql" alt="Sql" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="Sql" alt="Sql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-
-  ![Snake animation](https://github.com/caire-maia/caire-maia/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+     
    </div>
 </div>
